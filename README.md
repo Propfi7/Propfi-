@@ -149,7 +149,7 @@ Q3 2026	Mobile app + global expansion
 
 Website: Coming soon
 
-GitHub: https://github.com/yourusername/PropFi7
+GitHub:https://github.com/Propfi7/Propfi-
 
 Twitter (X): @PropFi_
 
